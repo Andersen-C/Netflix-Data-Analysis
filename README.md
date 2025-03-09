@@ -6,7 +6,7 @@ This project analyzes Netflix's movie and TV show dataset to identify content tr
 - **Netflix Movies & TV Shows Dataset** from Kaggle  
   [🔗 Link to Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-## 📊 Analysis Performed
+## Analysis Performed
 - Most common genres on Netflix  
 - Top 10 content contributor countries
 - Movies vs. TV Shows distribution  
